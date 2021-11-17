@@ -1,0 +1,16 @@
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\bin\Debug\net5.0\ExercicioProposto2.exe
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\bin\Debug\net5.0\ExercicioProposto2.deps.json
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\bin\Debug\net5.0\ExercicioProposto2.runtimeconfig.json
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\bin\Debug\net5.0\ExercicioProposto2.runtimeconfig.dev.json
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\bin\Debug\net5.0\ExercicioProposto2.dll
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\bin\Debug\net5.0\ref\ExercicioProposto2.dll
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\bin\Debug\net5.0\ExercicioProposto2.pdb
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\obj\Debug\net5.0\ExercicioProposto2.csproj.AssemblyReference.cache
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\obj\Debug\net5.0\ExercicioProposto2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\obj\Debug\net5.0\ExercicioProposto2.AssemblyInfoInputs.cache
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\obj\Debug\net5.0\ExercicioProposto2.AssemblyInfo.cs
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\obj\Debug\net5.0\ExercicioProposto2.csproj.CoreCompileInputs.cache
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\obj\Debug\net5.0\ExercicioProposto2.dll
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\obj\Debug\net5.0\ref\ExercicioProposto2.dll
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\obj\Debug\net5.0\ExercicioProposto2.pdb
+E:\Visual Studio - Projetos\Curso C#\ExercicioEnumeraçãoII\ExercicioProposto2\ExercicioProposto2\obj\Debug\net5.0\ExercicioProposto2.genruntimeconfig.cache
