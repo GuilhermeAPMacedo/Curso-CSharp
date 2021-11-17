@@ -1,0 +1,32 @@
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.exe
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.deps.json
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.runtimeconfig.json
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.runtimeconfig.dev.json
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.dll
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\bin\Debug\net5.0\ref\ExercicioPropostoEnum.dll
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.pdb
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.csproj.AssemblyReference.cache
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.AssemblyInfoInputs.cache
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.AssemblyInfo.cs
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.csproj.CoreCompileInputs.cache
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.dll
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\obj\Debug\net5.0\ref\ExercicioPropostoEnum.dll
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.pdb
+E:\Visual Studio - Projetos\Curso C#\Enumeração\Exercicio proposto\ExercicioPropostoEnum\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.genruntimeconfig.cache
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.exe
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.deps.json
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.runtimeconfig.json
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.runtimeconfig.dev.json
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.dll
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\bin\Debug\net5.0\ref\ExercicioPropostoEnum.dll
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\bin\Debug\net5.0\ExercicioPropostoEnum.pdb
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.csproj.AssemblyReference.cache
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.AssemblyInfoInputs.cache
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.AssemblyInfo.cs
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.csproj.CoreCompileInputs.cache
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.dll
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\obj\Debug\net5.0\ref\ExercicioPropostoEnum.dll
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.pdb
+E:\Visual Studio - Projetos\Curso C#\Enumeração\ExercicioPropostoEnum\obj\Debug\net5.0\ExercicioPropostoEnum.genruntimeconfig.cache
