@@ -1,0 +1,16 @@
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\bin\Debug\net5.0\Exercicio Herança-Polimorfismo.exe
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\bin\Debug\net5.0\Exercicio Herança-Polimorfismo.deps.json
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\bin\Debug\net5.0\Exercicio Herança-Polimorfismo.runtimeconfig.json
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\bin\Debug\net5.0\Exercicio Herança-Polimorfismo.runtimeconfig.dev.json
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\bin\Debug\net5.0\Exercicio Herança-Polimorfismo.dll
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\bin\Debug\net5.0\ref\Exercicio Herança-Polimorfismo.dll
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\bin\Debug\net5.0\Exercicio Herança-Polimorfismo.pdb
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\obj\Debug\net5.0\Exercicio Herança-Polimorfismo.csproj.AssemblyReference.cache
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\obj\Debug\net5.0\Exercicio Herança-Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\obj\Debug\net5.0\Exercicio Herança-Polimorfismo.AssemblyInfoInputs.cache
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\obj\Debug\net5.0\Exercicio Herança-Polimorfismo.AssemblyInfo.cs
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\obj\Debug\net5.0\Exercicio Herança-Polimorfismo.csproj.CoreCompileInputs.cache
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\obj\Debug\net5.0\Exercicio Herança-Polimorfismo.dll
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\obj\Debug\net5.0\ref\Exercicio Herança-Polimorfismo.dll
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\obj\Debug\net5.0\Exercicio Herança-Polimorfismo.pdb
+E:\Visual Studio - Projetos\Curso C#\Herança e Polimorfismo\Exercicio Herança-Polimorfismo\Exercicio Herança-Polimorfismo\obj\Debug\net5.0\Exercicio Herança-Polimorfismo.genruntimeconfig.cache
