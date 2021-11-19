@@ -1,0 +1,16 @@
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\bin\Debug\net5.0\Tratamento-excessoes.exe
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\bin\Debug\net5.0\Tratamento-excessoes.deps.json
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\bin\Debug\net5.0\Tratamento-excessoes.runtimeconfig.json
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\bin\Debug\net5.0\Tratamento-excessoes.runtimeconfig.dev.json
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\bin\Debug\net5.0\Tratamento-excessoes.dll
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\bin\Debug\net5.0\ref\Tratamento-excessoes.dll
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\bin\Debug\net5.0\Tratamento-excessoes.pdb
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\obj\Debug\net5.0\Tratamento-excessoes.csproj.AssemblyReference.cache
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\obj\Debug\net5.0\Tratamento-excessoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\obj\Debug\net5.0\Tratamento-excessoes.AssemblyInfoInputs.cache
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\obj\Debug\net5.0\Tratamento-excessoes.AssemblyInfo.cs
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\obj\Debug\net5.0\Tratamento-excessoes.csproj.CoreCompileInputs.cache
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\obj\Debug\net5.0\Tratamento-excessoes.dll
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\obj\Debug\net5.0\ref\Tratamento-excessoes.dll
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\obj\Debug\net5.0\Tratamento-excessoes.pdb
+E:\Visual Studio - Projetos\Curso C#\Tratamento de excessões\Tratamento-excessoes\Tratamento-excessoes\obj\Debug\net5.0\Tratamento-excessoes.genruntimeconfig.cache
